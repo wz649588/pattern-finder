@@ -12,7 +12,7 @@ This repository contains several Eclipse Plugin projects. The program can run no
 Users need to import the projects into Eclipse. Note that these projects should be imported as Eclipse Plugin projects.
 
 ## Downloading Input Files
-Users can download the program's input files from Google Drive. The files includes the input Java source code commits, the element list, the project libraries, and exported database tables.
+Users can download the program's input files from [Google Drive](https://goo.gl/9xCNvS). The files includes the input Java source code commits, the element list, the project libraries, and exported database tables.
 
 ## Configuration
 Users need to download necessary input files for the program, and save the files in the file system. 
