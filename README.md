@@ -1,5 +1,5 @@
 # pattern-finder
-Extract change dependency graphs from Java code changes
+Extract change dependency graphs from Java code changes. This is the implementation for the paper "An Empirical Study of Multi-Entity Changes in Real Bug Fixes".
 
 ## Requirements
 This repository contains several Eclipse Plugin projects. The program can run normally under the following conditions:
